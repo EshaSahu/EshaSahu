@@ -7,6 +7,8 @@
 <a href="https://portfolio-six-sage-76.vercel.app/">My Portfolio</a>
 </ br>
 
+- 🧷 Discover more about me at [https://portfolio-six-sage-76.vercel.app/](https://portfolio-six-sage-76.vercel.app/)
+
 - 🔭 I’m currently working with **the MERN stack in web development technology.**
 
 - 🌱 I’m currently learning **MySQL**
