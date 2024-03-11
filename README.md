@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshasahu&label=Profile%20views&color=0e75b6&style=flat" alt="eshasahu" /> </p>
 <a href="https://portfolio-updated-seven.vercel.app/">My Portfolio</a>
 
-<img align="right" alt="Coding" width="400" src="https://www.holopin.io/@eshasahu#badges">
+
 </ br>
 
 - 🧷 Discover more about me at [https://portfolio-updated-seven.vercel.app/](https://portfolio-updated-seven.vercel.app/)
