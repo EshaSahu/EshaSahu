@@ -4,10 +4,10 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshasahu&label=Profile%20views&color=0e75b6&style=flat" alt="eshasahu" /> </p>
-<a href="https://portfolio-six-sage-76.vercel.app/">My Portfolio</a>
+<a href="https://portfolio-updated-seven.vercel.app/">My Portfolio</a>
 </ br>
 
-- 🧷 Discover more about me at [https://portfolio-six-sage-76.vercel.app/](https://portfolio-six-sage-76.vercel.app/)
+- 🧷 Discover more about me at [https://portfolio-updated-seven.vercel.app/](https://portfolio-updated-seven.vercel.app/)
 
 - 🔭 I’m currently working with **the MERN stack in web development technology.**
 
