@@ -7,7 +7,7 @@
 <a href="https://portfolio-updated-seven.vercel.app/">My Portfolio</a>
 
 
-</ br>
+
 
 - 🧷 Discover more about me at [https://portfolio-updated-seven.vercel.app/](https://portfolio-updated-seven.vercel.app/)
 
